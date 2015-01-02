@@ -1,7 +1,8 @@
 In L3DT
 	Heightmap
 R		-Road on other side of Bridge
-		-FlattenCity
+		-FlattenCities and rural areas
+		-
 		
 	Textre
 C		-Mark Roads and other terrain
@@ -11,8 +12,9 @@ C		-Generate Normals
 
 Photoshop
 	-Mark terrain features for Mask Image (export as mask.png -> \source)
-		Roads (pink) //refer to concept map for road types (MSR, SSR, path, etc)
+		Roads (pink) //refer to concept map for road types (MSR, SSR, path, etc) //Note: For the cities, the individual roads have not been marked. I'm leaving that up to you. Please create a city-like grid with the roads, but don't make it an even grid. Leave spaces for bigger or small buildings. Up to you.
 		Grass (0,255,0)
+		Farm Grass (255,0,0)
 		Beach Sand (0,0,255)
 		Quarry Gravel (grey)
 		Farming Fields (yellow)
