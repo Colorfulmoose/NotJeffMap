@@ -18,3 +18,5 @@ Photoshop
 		Beach Sand (0,0,255)
 		Quarry Gravel (grey)
 		Farming Fields (yellow)
+
+ROTARY SWAGING IS FUN!
